@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPermission</string>
+    <string name="permission_required">Permission required</string>
+    <string name="need_multiple_permissions">Need Multiple Permissions</string>
+    <string name="grant">Grant</string>
+    <string name="cancel">Cancel</string>
+</resources>
